@@ -15,10 +15,12 @@ namespace myApp
             int hitPoints = 10;
             int goblinHitPoints = 10;
 
+            Console.Clear();
             Console.WriteLine("A goblin is approaching you with an evil grin on his greasy face,\n"
-                + "running a finger along a dull short sword");
+                + "running a finger along a dull short sword.\n\n");
 
             do{   
+                Console.Clear();
                 initiative = rnd.Next(1,3);
                 if (initiative == 1){
                     Console.WriteLine("You are ready first!");

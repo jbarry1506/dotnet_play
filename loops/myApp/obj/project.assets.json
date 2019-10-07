@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/devop/DotNet/loops/myApp/myApp.csproj",
+      "projectUniqueName": "/Users/devop/dotnet_play/loops/myApp/myApp.csproj",
       "projectName": "myApp",
-      "projectPath": "/Users/devop/DotNet/loops/myApp/myApp.csproj",
+      "projectPath": "/Users/devop/dotnet_play/loops/myApp/myApp.csproj",
       "packagesPath": "/Users/devop/.nuget/packages/",
-      "outputPath": "/Users/devop/DotNet/loops/myApp/obj/",
+      "outputPath": "/Users/devop/dotnet_play/loops/myApp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

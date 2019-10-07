@@ -9,3 +9,14 @@
 /Users/devop/DotNet/conditionals2/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
 /Users/devop/DotNet/conditionals2/myApp/obj/Debug/netcoreapp2.2/myApp.dll
 /Users/devop/DotNet/conditionals2/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
+/Users/devop/dotnet_play/conditionals2/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/Users/devop/dotnet_play/conditionals2/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/Users/devop/dotnet_play/conditionals2/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/Users/devop/dotnet_play/conditionals2/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/Users/devop/dotnet_play/conditionals2/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/Users/devop/dotnet_play/conditionals2/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/Users/devop/dotnet_play/conditionals2/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/Users/devop/dotnet_play/conditionals2/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/Users/devop/dotnet_play/conditionals2/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/Users/devop/dotnet_play/conditionals2/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/Users/devop/dotnet_play/conditionals2/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
